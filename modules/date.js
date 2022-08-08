@@ -1,9 +1,4 @@
-/* export function date () {
-    const dt = new Date();
-    document.getElementById('date-time').innerHTML = dt.toLocaleString('en-US');
-  }
-  date();
-  setInterval(date, 1000); */
+/*eslint-disable*/
 
 // these aren't really private, but nor are they really useful to document
 
