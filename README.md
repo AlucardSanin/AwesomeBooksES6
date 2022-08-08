@@ -1,56 +1,35 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Awesome Books ES6 & Modules
 
-> Description the project.
-
+> Modify previous website using modules and ES6 Syntax with better use of variables scope.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
+- HTML
+- JavaScript
+- CSS
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+## Get a local copy.
+You may git clone with the following link : https://github.com/Flunavgt/awesomeBooks.git
 
 
 ## Authors
 
-👤 **Author1**
+👤 **David Isea**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: https://github.com/AlucardSanin
+- Twitter: https://twitter.com/cadivisea
+- LinkedIn: https://www.linkedin.com/in/david-isea-560424236/
 
-👤 **Author2**
+👤 Federico Luna V.
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Flunavgt](https://github.com/Flunavgt)
+- Twitter: [@flunavgt](https://twitter.com/flunavgt)
+- LinkedIn: [federico-luna-Gt](https://linkedin.com/in/federico-luna-Gt)
+
 
 ## 🤝 Contributing
 
@@ -70,6 +49,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](./MIT.md) licensed.
