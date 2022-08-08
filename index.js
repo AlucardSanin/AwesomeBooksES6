@@ -1,5 +1,5 @@
 import Bookshelf from './modules/books.js';
-import { DateTime } from "./modules/date.js";
+import { DateTime } from './modules/date.js';
 
 const myBookshelf = new Bookshelf();
 
@@ -34,14 +34,11 @@ const render = () => {
   }
 };
 
-
-const now= DateTime.local().toLocaleString(DateTime.DATETIME_FULL);
-
+const now = DateTime.local().toLocaleString(DateTime.DATETIME_FULL);
 
 const DaTi = document.querySelector('.currentTime');
 
-DaTi.innerHTML =  `${now} `;
-
+DaTi.innerHTML = `${now} `;
 
 // Controller
 const button = document.querySelector('.button');
